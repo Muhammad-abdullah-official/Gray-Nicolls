@@ -1,0 +1,198 @@
+body{
+    margin: 0px;
+    position: relative;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+.cr {
+    margin: 54px 0px 10px 40px;
+    height: 250px;
+    width: 200px;
+    
+}
+
+
+.cri {
+    padding-top: 20px;
+    padding-left: 20px;
+    display: flex;
+/* align-items: center; */
+justify-content: center;
+flex-wrap: wrap;
+background-color: rgba(155, 154, 154, 0.203);
+
+}
+.cric{
+padding-left: 0px;
+}
+.cric p {
+    margin: 3px 42px;
+}
+
+.all{
+display: flex;
+text-align: center;
+justify-content: space-between;
+width: 100%;
+background-color:rgba(191, 122, 122, 0.083);
+color: rgba(163, 44, 44, 0.834);
+}
+
+.see{
+    margin: 15px;
+    margin-right: 100px;
+    border: 2px solid rgba(163, 44, 44, 0.834);
+    border-radius: 4px;
+    width: 40px;
+    padding: 3px;
+    cursor: pointer;
+    color: white;
+}
+
+.see:hover{
+    color: white;
+    background-color: rgba(163, 44, 44, 0.834);
+}
+
+.all{
+    position: fixed;
+}
+
+main div a{
+    text-decoration: none;
+    color: rgba(163, 44, 44, 0.834);
+    /* color: rgba(163, 44, 44, 0.834); */
+
+}
+
+main div a:hover{
+    color: white;
+
+}
+
+main.all h1{
+    padding: 5px;
+}
+
+.clothes{
+    padding-top: 20px;
+    padding-left: 20px;
+    gap: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+background-color: rgba(155, 154, 154, 0.203);
+}
+
+.hh{
+    margin: 0px;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+background-color: rgba(155, 154, 154, 0.203);
+
+}
+
+h2{
+    font-size: 45px;
+
+}
+
+p{
+    font-size: 25px;
+}
+
+span{
+    font-size: 25px;
+    color:rgba(163, 44, 44, 0.834) ;
+}
+
+.sha{
+    margin: 54px 20px 0px;
+    height: 275px;
+    width: 350px;
+}
+
+.shb{
+    margin: 54px  20px 0px;
+    height: 275px;
+    width: 350px;
+}
+
+.shc{
+    margin: 54px 20px 0px;
+    height: 275px;
+    width: 350px;
+}
+
+.shd{
+    margin: 54px 20px 0px;
+    height: 275px;
+    width: 350px;
+}
+
+.she{
+    margin: 54px 20px 0px;
+    height: 275px;
+    width: 350px;
+}
+
+.shf{
+    margin: 54px 20px 0px;
+    height: 275px;
+    width: 350px;
+}
+
+.shoes{
+    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+background-color: rgba(155, 154, 154, 0.203);
+}
+
+.sa{
+    margin: 54px 40px 0px;
+    height: 275px;
+    width: 300px;
+}
+
+.sb{
+    margin: 54px 40px 0px;
+    height: 275px;
+    width: 300px;
+}
+
+.sc{
+    margin: 54px 40px 0px;
+    height: 275px;
+    width: 300px;
+}
+
+.sd{
+    margin: 54px 40px 0px;
+    height: 275px;
+    width: 300px;
+}
+
+.se{
+    margin: 54px 40px 0px;
+    height: 275px;
+    width: 300px;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.779);
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 8px ;
+    margin: 0px;
+}
